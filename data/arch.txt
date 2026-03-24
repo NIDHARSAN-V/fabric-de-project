@@ -1,0 +1,15 @@
+Bronze
+   ↓
+Filter using watermark (incremental)
+   ↓
+Join with Silver (CDC)
+   ↓
+Apply SCD Type 2
+
+
+
+change inital_Transformation file - https://chatgpt.com/s/t_69c1449cae708191a7fe1e32c820a5eb
+
+
+
+scd2 later impl - https://chatgpt.com/s/t_69c14fc3d6b481919ee661cc39fa318b

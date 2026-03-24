@@ -1,7 +1,7 @@
-product_id,product_name,category,price
-P001,iPhone 13,Electronics,70000
-P002,Samsung TV,Electronics,50000
-P003,Sofa,Furniture,30000
-P004,Dining Table,Furniture,20000
-P005,Headphones,Electronics,2000
-P006,Laptop,Electronics,80000
+    product_id,product_name,category,price
+    P001,iPhone 13,Electronics,70000
+    P002,Samsung TV,Electronics,50000
+    P003,Sofa,Furniture,30000
+    P004,Dining Table,Furniture,20000
+    P005,Headphones,Electronics,2000
+    P006,Laptop,Electronics,80000
